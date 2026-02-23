@@ -205,3 +205,9 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+./vscode/
+.vscode/c_cpp_properties.json
+.gitignore
+.gitignore
+.vscode/settings.json
+semantic_pointcloud_output/*.npz
