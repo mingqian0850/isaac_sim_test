@@ -2,7 +2,7 @@
 This repo contains serval script to test isaac sim interfaces
 
 ## ISAAC SIM TO ROS2
-```bash
+<!-- ```bash
 # Terminal 1
 export ROS_DISTRO=jazzy
 export RMW_IMPLEMENTATION=rmw_fastrtps_cpp
@@ -12,7 +12,7 @@ alias isaac_sim='/home/mingqian/isaacsim/isaac-sim-standalone-5.1.0-linux-x86_64
 alias isaac_py='/home/mingqian/isaacsim/isaac-sim-standalone-5.1.0-linux-x86_64/python.sh'
 
 isaac_py /home/mingqian/Desktop/IsaacSim_test/ros2_depth.py
-```
+``` -->
 
 ```bash
 # Terminal 2
